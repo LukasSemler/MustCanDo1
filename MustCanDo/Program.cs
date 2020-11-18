@@ -89,8 +89,6 @@ namespace UebungMustCanDo01
                 zurückgeben = obst + "würfel";
 
             return zurückgeben;
-
-
         }
 
 
